@@ -22,7 +22,7 @@ A few sample generated images are present in `saved_imgs`.
 
 3) Download the training checkpoints and saved generator and discriminator models from [here](https://drive.google.com/drive/folders/13wUgCcENajkPZ4MHz2bHrJtQepyVDvtb?usp=sharing).
 
-3) Download the [Celeb-A](https://www.kaggle.com/jessicali9530/celeba-dataset) dataset, and place it in the directory in the following manner:-
+4) Download the [Celeb-A](https://www.kaggle.com/jessicali9530/celeba-dataset) dataset, and place it in the directory in the following manner:-
 <pre>
 ├─── Patched-Face-Regeneration-GAN
      ├─── ..
