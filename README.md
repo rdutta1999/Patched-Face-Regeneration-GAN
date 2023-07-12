@@ -11,8 +11,6 @@ I added distortions to the images in two ways:-
 
 The entire training was done on a GTX 1080 GPU, and took about 12days.
 
-The latest checkpoints and the saved generator and discriminator can be found [here](https://drive.google.com/drive/folders/13wUgCcENajkPZ4MHz2bHrJtQepyVDvtb?usp=sharing).
-
 A few sample generated images are present in `saved_imgs`.
 
 ## Setting Up
@@ -20,7 +18,7 @@ A few sample generated images are present in `saved_imgs`.
 
 2) Install the necessary packages. Refer to the packages mentioned in `environment.yml`.
 
-3) Download the training checkpoints and saved generator and discriminator models from [here](https://drive.google.com/drive/folders/13wUgCcENajkPZ4MHz2bHrJtQepyVDvtb?usp=sharing).
+3) The training checkpoints and saved generator and discriminator models are located in `/training_checkpoints`, `/saved_generator` and `/saved_discriminator` respectively.
 
 4) Download the [Celeb-A](https://www.kaggle.com/jessicali9530/celeba-dataset) dataset, and place it in the directory in the following manner:-
 <pre>
